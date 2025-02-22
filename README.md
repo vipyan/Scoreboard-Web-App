@@ -1,6 +1,8 @@
 # Scoreboard Web App
 
 ## Overview
+
+[Live Demo](https://vipyan.github.io/Scoreboard-Web-App/)
 This is a simple Scoreboard Web Application that allows users to track scores for a home team and a guest team. The application is built using HTML, CSS, and JavaScript and provides interactive buttons for incrementing scores.
 
 ## Features
